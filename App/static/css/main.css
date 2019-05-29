@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  font-family: 'Patrick Hand SC', cursive;
+  color: blue;
+
+}
+
+table, th, td {
+  padding: 5px;
+}
+.content{
+  margin: 0 auto;
+  width: 350px;
+}
+
+h1{
+  color: blue;
+  font-family: 'Patrick Hand SC', cursive;
+  text-decoration: underline;
+}
+
+.submit{
+  border-radius: 5px;
+  border-color: blue;
+  background-color: blue;
+  font-family: 'Patrick Hand SC', cursive;
+  color: white;
+}
+
+input[type=text]{
+  border-color: blue;
+  font-family: 'Patrick Hand SC', cursive;
+  color: blue;
+  width: 250px;
+}
